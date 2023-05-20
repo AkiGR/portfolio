@@ -3,10 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@linaria/babel-preset": "^4.4.5",
-    "@linaria/core": "^4.2.10",
-    "@linaria/react": "^4.3.8",
-    "@prisma/client": "^4.14.0",
+   "@prisma/client": "^4.14.0",
+    "@stitches/react": "^1.2.8",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
